@@ -2,7 +2,7 @@
 
 
 
-<img src="/img/aaa.jpg" alt="logo" width="600px"></img>
+<img src="/img/aaa.jpg" alt="logo"></img>
 
 
 # Índice
