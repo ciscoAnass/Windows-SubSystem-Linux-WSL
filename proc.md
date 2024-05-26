@@ -1,4 +1,4 @@
-**Gestión de Procesos en WSL:**
+# Gestión de Procesos en WSL:
 
 El manejo de procesos en el entorno de Windows Subsystem for Linux (WSL) es esencial para garantizar su correcto funcionamiento y su integración con el sistema operativo Windows. Aquí se presentan las distintas categorías de procesos asociados y cómo gestionarlos:
 
