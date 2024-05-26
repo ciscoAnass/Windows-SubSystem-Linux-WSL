@@ -15,13 +15,16 @@ Ahora puedes configurar todo lo necesario para WSL con un solo comando. Abre Pow
 wsl --install
 ```
 
-	- Para ver la lista de distribuciones disponibles :
+
+ - Para ver la lista de distribuciones disponibles :
+ 
 	
 ```powershell
 wsl --list --online
 ```
 
-	- Para instalar Una Distribucion
+
+ - Para instalar Una Distribucion
 	
 ```powershell
 wsl --install -d [Distribucion]
