@@ -8,7 +8,6 @@ El Subsistema de Windows para Linux (WSL) permite a los desarrolladores ejecutar
 <img src="/img/bbb.jpg" alt="logo"></img>
 
 
--- foto
 ***
 ### Diferencias Clave entre WSL 1 y WSL 2
 - **WSL 1:** Usa una capa de compatibilidad para ejecutar binarios de Linux. Es más ligero en uso de recursos.
