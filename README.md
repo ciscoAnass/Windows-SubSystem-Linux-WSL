@@ -16,8 +16,7 @@ Instalación de WSL
 - Pasos detallados para habilitar y configurar WSL en Windows 11
 
 ### [3- Instalación de Distribuciones de Linux  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/deb-ubuntu.md)
-- Guía para instalar y configurar Debian en WSL
-- Guía para instalar y configurar Ubuntu en WSL
+- Guía para instalar y configurar Debian y Ubuntu en WSL
 
 
 ### [4- Gestión de Procesos en WSL  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/proc.md)
@@ -25,14 +24,28 @@ Instalación de WSL
 - Integración de comandos de Windows en WSL y viceversa
 - Herramientas y comandos útiles para la administración en WSL
 
+***
 
-### Recursos Adicionales
+### 
 
-Enlaces y documentación de referencia
-Licencia
+### Referencias
 
-Este proyecto está licenciado bajo la MIT License. Uso, modificación y distribución permitidos según los términos de la licencia.
-Este trabajo está licenciado bajo la licencia Attribution-ShareAlike 4.0 International
-Autor
 
-Información del autor
+
+- **[Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)**
+- **[Referencia 2 : ChatGpt.com](https://chatgpt.com)**
+- **[Referencia 3 : Ubuntu.com](https://ubuntu.com/desktop/wsl)**
+
+
+***
+### Licencia
+
+![License](/img/license.png)
+
+
+
+*** 
+
+# Autor
+
+## [Anass Assim](https://github.com/ciscoAnass)
